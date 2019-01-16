@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginAsignment</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Log in</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="register">sign up</string>
+    <string name="username_login">username</string>
+    <string name="login_button">Log in</string>
+    <string name="password_login">password</string>
+    <string name="register_btn">Sign up</string>
+</resources>
